@@ -3960,9 +3960,9 @@ body.b960 #lower-header>.container{
 
 {
 
-  background:#141d22;
+  background:#fff;
 
-  background:rgba(20,29,34,.56);
+  background:rgba(255,255,255,.56);
 
 }
 
@@ -4368,7 +4368,7 @@ body.b960 .sticky-header.style6 #lower-header
 
 {
 
-  background:rgba(20,29,34,.80);
+  background:rgba(255,255,255,1);
 
 }
 
@@ -5641,7 +5641,7 @@ div.menu>ul ul:after{
 
   background:#19242a;
 
-  background: rgba(25,36,42,.89);
+  background: rgba(255,255,255,.89);
 
   padding:13px 20px;
 
@@ -5785,7 +5785,7 @@ div.menu>ul ul:after{
 
 {
 
-  color:#fff;
+  color:#000;
 
 }
 
