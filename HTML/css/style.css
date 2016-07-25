@@ -26226,8 +26226,8 @@ input[type=number]::-webkit-outer-spin-button {
   background-attachment: scroll; 
   background-position: left top; 
   background-size: 100% 100%; 
-  padding-top: 60px; 
-  padding-bottom: 60px;
+  padding-top: 30px; 
+  padding-bottom: 30px;
 }
 
 .marine-header6-flexslider-bg{
@@ -26797,7 +26797,7 @@ input[type=number]::-webkit-outer-spin-button {
   text-align:center
 }
 .business-h6 {
-  color:#c3fbff
+  color:#ffa500
 }
 .business-specialh3 {
   color:#ffffff;
