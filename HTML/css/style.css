@@ -13253,6 +13253,12 @@ span.testimonial-job
 
 }
 
+.team-member p 
+
+{
+
+  text-align: left;
+}
 
 
 .team-member img
@@ -13305,6 +13311,21 @@ span.testimonial-job
 
 }
 
+.team-member-img 
+
+{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.team-member-img img
+{
+  width: auto;
+  height: 160px;
+}
 
 
 .team-member h4
