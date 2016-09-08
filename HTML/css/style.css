@@ -2603,6 +2603,17 @@ img{
 }
 
 
+.front-page {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.front-page img {
+  height: 180px;
+  width: auto;
+}
+
 
 .wpb_column > .wpb_wrapper > .last-page {
 
